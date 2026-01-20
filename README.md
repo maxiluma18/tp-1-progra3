@@ -24,8 +24,7 @@
 Para correr el proyecto localmente:
 
 1. **Clonar el repositorio:**
-   ```bash
-   git clone [https://github.com/maxiluma18/tp-1-progra3](https://github.com/maxiluma18/tp-1-progra3)
+   git clone https://github.com/maxiluma18/tp-1-progra3
 2. **importar en un IDE:**
    Abrir la carpeta con IntelliJ IDEA, Eclipse o NetBeans.
 3. **Ejecutar:**
