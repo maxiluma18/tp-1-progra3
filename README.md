@@ -6,7 +6,7 @@
 ### 🖥️ Vista del Proyecto
 | Menú Principal | Selección de Nivel | Interfaz de Juego |
 | :---: | :---: | :---: |
-| ![Menú](./captura_menu.png) | ![Niveles](./captura_niveles.png) | ![Juego](./captura_juego.png) |
+| ![Menú](./captura.menu.png) | ![Niveles](./captura.niveles.png) | ![Juego](./captura.juego.png) |
 
 ### 🛠️ Stack Tecnológico
 * **Lenguaje:** Java.
